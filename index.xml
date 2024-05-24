@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>难赋小屋</title>
-    <link>https://baiwan-chenhao.github.io/</link>
+    <link>https://baiwan-chenhao.github.io/blog/</link>
     <description>Recent content on 难赋小屋</description>
     <generator>Hugo</generator>
     <language>zh-CHS</language>
     <lastBuildDate>Fri, 24 May 2024 11:27:07 +0800</lastBuildDate>
-    <atom:link href="https://baiwan-chenhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baiwan-chenhao.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开宗明义</title>
-      <link>https://baiwan-chenhao.github.io/posts/%E5%BC%80%E5%AE%97%E6%98%8E%E4%B9%89/</link>
+      <link>https://baiwan-chenhao.github.io/blog/posts/%E5%BC%80%E5%AE%97%E6%98%8E%E4%B9%89/</link>
       <pubDate>Fri, 24 May 2024 11:27:07 +0800</pubDate>
-      <guid>https://baiwan-chenhao.github.io/posts/%E5%BC%80%E5%AE%97%E6%98%8E%E4%B9%89/</guid>
+      <guid>https://baiwan-chenhao.github.io/blog/posts/%E5%BC%80%E5%AE%97%E6%98%8E%E4%B9%89/</guid>
       <description>想要探寻意识之海的秘密，愿与你分享意识第一次睁眼时的惊啸。</description>
     </item>
   </channel>
